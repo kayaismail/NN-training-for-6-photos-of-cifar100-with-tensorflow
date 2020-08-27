@@ -1,0 +1,6 @@
+Add Test and Train data file from cifar100 to this folder
+
+
+
+network-training-for-6-photos-of-cifar100 Private
+Network training for 32 px photos. using convolution neural network , Dense layer, Dropout, data augmentation
